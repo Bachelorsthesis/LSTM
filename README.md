@@ -48,9 +48,9 @@ The data used in these analyses are proprietary and restricted. They include det
 ## How to View the Code
 
 You can view the MATLAB code files directly in this repository:
-- [elderly_young.mlx](./elderly_young.mlx)
-- [recovery_restpostrecovery.mlx](./recovery_restpostrecovery.mlx)
-- [restposrecovery_totalrest.mlx](./restposrecovery_totalrest.mlx)
+- [https://github.com/Bachelorsthesis/LSTM/blob/main/elderly_young_classification/elderly_young.mlx](./elderly_young.mlx)
+- [https://github.com/Bachelorsthesis/LSTM/tree/main/recovery_postrecovery_classification](./recovery_restpostrecovery.mlx)
+- [https://github.com/Bachelorsthesis/LSTM/tree/main/restpostrecovery_totalrest_classification](./restposrecovery_totalrest.mlx)
 
 
 ## Acknowledgments
