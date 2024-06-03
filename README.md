@@ -45,14 +45,6 @@ The data used in these analyses are proprietary and restricted. They include det
    - The preprocessed signals and extracted features are used to train LSTM networks. Training parameters are tuned to optimize classification performance.
 
 
-## How to View the Code
-
-You can view the MATLAB code files directly in this repository:
-- [https://github.com/Bachelorsthesis/LSTM/blob/main/elderly_young_classification/elderly_young.mlx](./elderly_young.mlx)
-- [https://github.com/Bachelorsthesis/LSTM/tree/main/recovery_postrecovery_classification](./recovery_restpostrecovery.mlx)
-- [https://github.com/Bachelorsthesis/LSTM/tree/main/restpostrecovery_totalrest_classification](./restposrecovery_totalrest.mlx)
-
-
 ## Acknowledgments
 
 Special thanks to all contributors and the institution providing the proprietary data.
